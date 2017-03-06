@@ -1,0 +1,28 @@
+{
+  "name": "tassimo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darktowerdev",
+  "license": "ISC",
+  "dependencies": {
+    "card": "^2.1.1",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-stylus-map": "^0.21.2",
+    "jquery": "^3.1.0",
+    "owl-carousel-2": "0.0.3",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5",
+    "stylus-loader": "^2.4.0",
+    "video.js": "^5.16.0"
+  }
+}
