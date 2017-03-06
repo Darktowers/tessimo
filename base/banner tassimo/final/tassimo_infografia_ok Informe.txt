@@ -1,0 +1,230 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: tassimo_infografia_ok.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 600 px x 600 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Grota Sans Rd Light (OTF)
+Grota Sans Rd Book (OTF)
+Grota Sans Rd Bold (OTF)
+Amsi Pro Regular (OTF)
+Amsi Pro Bold (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/vivy_roja.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1171K, 500 por 600 p’xeles
+Dimensiones: 286,65 por 343,98 puntos 
+Resoluci—n: 125,589 por 125,589 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/LOR GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 137,884 por 137,884 puntos 
+Resoluci—n: 828,174 por 828,174 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MARCILLA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 144,71 por 144,71 puntos 
+Resoluci—n: 789,108 por 789,108 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/vivy_roja.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1171K, 500 por 600 p’xeles
+Dimensiones: 246,394 por 295,673 puntos 
+Resoluci—n: 146,107 por 146,107 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/vivy_roja.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1171K, 500 por 600 p’xeles
+Dimensiones: 190,861 por 229,033 puntos 
+Resoluci—n: 188,619 por 188,619 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MARCILLA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 136,72 por 136,72 puntos 
+Resoluci—n: 835,224 por 835,224 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MARCILLA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 112,825 por 74,894 puntos 
+Resoluci—n: 1012,116 por 1524,705 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/vivy_roja.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1171K, 500 por 600 p’xeles
+Dimensiones: 170,916 por 205,099 puntos 
+Resoluci—n: 210,63 por 210,63 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/lor_cup.psd
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1574K, 580 por 695 p’xeles
+Dimensiones: 312,709 por 374,711 puntos 
+Resoluci—n: 133,543 por 133,543 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/LOR GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 143,905 por 143,905 puntos 
+Resoluci—n: 793,524 por 793,524 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/LOR GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 119,917 por 73,807 puntos 
+Resoluci—n: 952,259 por 1547,169 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MILKA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 114,291 por 75,032 puntos 
+Resoluci—n: 999,137 por 1521,902 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/vivy_roja.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1171K, 500 por 600 p’xeles
+Dimensiones: 286,65 por 343,98 puntos 
+Resoluci—n: 125,589 por 125,589 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MARCILLA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 158,29 por 158,29 puntos 
+Resoluci—n: 721,409 por 721,409 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MILKA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 158,392 por 158,392 puntos 
+Resoluci—n: 720,947 por 720,947 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/LOR GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 158,662 por 158,662 puntos 
+Resoluci—n: 719,718 por 719,718 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/lor_cup.psd
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 1574K, 580 por 695 p’xeles
+Dimensiones: 218,257 por 261,532 puntos 
+Resoluci—n: 191,334 por 191,334 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/milka_cup.psd
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 3164K, 900 por 900 p’xeles
+Dimensiones: 208,776 por 208,776 puntos 
+Resoluci—n: 310,38 por 310,38 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MILKA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 145,197 por 145,197 puntos 
+Resoluci—n: 786,461 por 786,461 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/milka_cup.psd
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 3164K, 900 por 900 p’xeles
+Dimensiones: 301,734 por 301,734 puntos 
+Resoluci—n: 214,758 por 214,758 p’xeles por pulgada
+
+
+/Volumes/2017/Tassimo/infografia cafeteras/material/imgs/MILKA GOTA.png
+Tipo: RGB transparente
+Bits por p’xel: 32
+Canales: 4
+Tama–o: 9825K, 1586 por 1586 p’xeles
+Dimensiones: 137,884 por 137,884 puntos 
+Resoluci—n: 828,174 por 828,174 p’xeles por pulgada
