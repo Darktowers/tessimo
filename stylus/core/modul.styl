@@ -30,8 +30,19 @@
     font-style: normal;
 @import "nib"
 @import "nib/vendor"
+h6
+    margin: 0;
+    text-align: center;
+    color: #666666;
+    font-family:"grota_sans_rdbold"
 .text_naranja
     color #f7a729 !important
+    font-weight: bold;
+.text_verde
+    color #bdd437 !important
+    font-weight: bold;
+.text_azul
+    color #49bed8 !important
     font-weight: bold;
 body
     font-family: "amsi_proregular"
@@ -67,17 +78,28 @@ body
                                     height: 55px;
                             p
                                 margin: .5em 1em;
+                            .inteli
                             .brand-cont
                                 position: relative;
+                                cursor: pointer
+                                &:hover
+                                    .brand
+                                        transform: scale(1.1)
+                                    .mas
+                                        transform: translateX(-1em)
                                 .brand
                                     height: 127px;
                                     margin: 0 auto;
                                     margin-top: 2em;
+                                    transition: all .3s ease-in-out
+                                    cursor: pointer
                                 .mas
                                     height: 70px;
                                     position: absolute;
                                     bottom: 0;
                                     z-index: -1;
+                                    transition: all .3s ease-in-out
+                                    cursor: pointer
                         .go
                             img
                                 position: absolute;
@@ -87,22 +109,55 @@ body
                         .more
                             position: absolute;
                             right: -2em;
+                            transition: all .3s ease-in-out
+                            cursor: pointer
+                            z-index: 3;
+                            &:hover
+                                transform: scale(1.1)
                             img
                                 height: 70px;
+                        p
+                            font-size: 13px;
+                            max-width: 220px;
+                            margin: 0 auto !important;
+                            margin-top: 1em !important;
+                            min-height: 130px;
                         .slide-control
                             display: flex;
                             justify-content: center
                             position: relative
                             z-index: 2
+                            
+                            .back_azul
+                                background: #49bed8 !important;
+                            .bo_azul
+                                border-color: #49bed8 !important
+                                div
+                                    color #49bed8 !important
+                                &:hover
+                                    div
+                                        background: #49bed8 !important
+                                        color: white !important
+                            .back_verde
+                                background: #bdd437 !important;
+                            .bo_verde
+                                border-color: #c0d644 !important
+                                div
+                                    color #c0d644 !important
+                                &:hover
+                                    div
+                                        background: #c0d644 !important
+                                        color: white !important
                             .active
                                 border: 3px solid #f7a626;
                                 div
                                 span
-                                    background: #f7a729 !important
+                                    background: #f7a729 
                                     color: white !important
+
                             .control
-                                width: 70px;
-                                height: 70px;
+                                width: 60px;
+                                height: 60px;
                                 display: flex;
                                 align-items: center;
                                 justify-content: center;
@@ -113,18 +168,17 @@ body
                                 cursor: pointer
                                 &:hover
                                     div
-                                        background: #f7a729 !important
-                                        color: white !important 
+                                        background: #f7a729 
+                                        color: white 
                                 div
                                 span
-                                    background: white;
-                                    font-size: 1.8em;
+                                    font-size: 1.5em;
                                     border-radius: 50%;
                                     color: #f7a729;
-                                    width: 55px;
-                                    height: 55px;
+                                    width: 50px;
+                                    height: 50px;
                                     text-align: center;
-                                    line-height: 1.9;
+                                    line-height: 2.1;
                                     transition: all .3s ease-in-out
                                     
         .section
@@ -148,6 +202,28 @@ body
                             text-align: center;
                             color: #666666;
                             font-family:"grota_sans_rdbold"
+                        .coffeGlass
+                            position: absolute;
+                            bottom: 5em;
+                            left: 2em;
+                            img
+                                height: 140px;
+                                width: auto;
+                        .hand
+                            position: absolute;
+                            top: 9em;
+                            right: 1em;
+                            img
+                                height: 100px;
+                                width: auto;
+
+                        .flechas
+                            position: absolute;
+                            bottom: 6em;
+                            right: -5em;
+                            img
+                                height: 235px;
+                                width: auto;
                     .title 
                         margin-top: 2em;
                         img
@@ -183,6 +259,15 @@ body
             &-Header
                 position: relative;
                 z-index: 2
+                .goback
+                    position: absolute;
+                    left: 1em;
+                    top: .5em;
+                    color: white;
+                    cursor: pointer;
+                    transition: all -3s ease-in-out
+                    &:hover
+                        transform: scale(1.1)
                 .back
                     position: absolute;
                     z-index: -1;

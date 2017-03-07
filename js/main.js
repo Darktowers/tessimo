@@ -270,8 +270,40 @@
 				$(this).parents(".coffe-container").css({'transform' : 'translateX(-1200px)'});
 			})
 			$(".section-Content .coffe-1").on("click", function(){
+				$(".home").slideUp();				
 				$(".coffe-cont-1").slideDown();
-				$(".home").slideUp();
+			})
+			$(".section-Content .coffe-2").on("click", function(){
+				$(".home").slideUp();				
+				$(".coffe-cont-2").slideDown();
+			})
+			$(".section-Content .coffe-3").on("click", function(){
+				$(".home").slideUp();				
+				$(".coffe-cont-3").slideDown();
+			})
+			$(".coffe-container .goback").on("click", function(){
+				$(".coffe-container").slideUp();
+				$(".home").slideDown();
+			})
+			$(".brand-cont").on("click",function(){			
+				$(".home").fadeOut("slow");
+				$(".coffe-container").fadeOut("slow");
+				$(".bebidas").fadeIn("slow");
+			})
+			$(".inteli").on("click",function(){			
+				$(".home").fadeOut("slow");
+				$(".coffe-container").fadeOut("slow");
+				$(".bebidas").fadeOut("slow");
+				$(".intelix").fadeIn("slow");
+				
+			})
+			
+			$(".more").on("click",function(){
+
+				$(".bebidas").slideUp("slow");
+				$(".home").slideUp("slow");
+				$(".coffe-container").slideUp();
+				$(".maquinas").slideDown();
 			})
 /*
 		days = ["L", "M", "X", "J", "V", "S", "D"]
